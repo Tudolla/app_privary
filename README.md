@@ -114,7 +114,7 @@ We do not sell or rent your personal information. We only share data with:
 - When you **log out**, the App clears all sensitive data stored on your device
   (tokens, user ID, and user data).
 - To request **deletion of your account and associated data** from our service,
-  contact us at **linhmanh92@gmail.com**. We will process your request within a
+  contact us at **eduino.info@gmail.com**. We will process your request within a
   reasonable period in accordance with applicable law.
 
 ---
