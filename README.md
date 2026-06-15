@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**App name:** Happ
+**App name:** EDO Study: Học tốt
 **Last updated:** June 15, 2026
-**Contact:** linhmanh92@gmail.com
+**Contact:** eduino.info@gmail.com
 
 This Privacy Policy describes how the Happ application ("the App", "we", "us")
 collects, uses, stores, and protects your information when you use the App. By
@@ -153,4 +153,4 @@ means you accept the updated policy.
 If you have questions or requests regarding this Privacy Policy or your data,
 contact us at:
 
-**Email:** linhmanh92@gmail.com
+**Email:** eduino.info@gmail.com
